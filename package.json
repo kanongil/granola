@@ -1,0 +1,34 @@
+{
+  "name": "granola",
+  "description": "Extended, JSON compatible, string serialization",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "JSON",
+    "stringify",
+    "parse",
+    "serialize",
+    "encode",
+    "decode",
+    "date",
+    "map",
+    "set",
+    "buffer",
+    "bigint"
+  ],
+  "scripts": {
+    "test": "lab -t 100 -L",
+    "test-cov-html": "lab -r html -o coverage.html",
+    "test-harmony-bigint": "node --harmony-bigint ./node_modules/.bin/lab -t 100 -L"
+  },
+  "author": "Gil Pedersen <gpdev@gpost.dk>",
+  "license": "BSD-3-Clause",
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "devDependencies": {
+    "code": "5.x.x",
+    "hoek": "git+https://github.com/kanongil/hoek.git#map-set-deepequal",
+    "lab": "15.x.x"
+  }
+}
