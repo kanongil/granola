@@ -26,9 +26,14 @@
   "engines": {
     "node": ">=8.9.0"
   },
+  "dependencies": {},
   "devDependencies": {
     "code": "5.x.x",
     "hoek": "git+https://github.com/kanongil/hoek.git#map-set-deepequal",
     "lab": "15.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanongil/granola.git"
   }
 }
