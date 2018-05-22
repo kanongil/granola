@@ -2,6 +2,8 @@
 
 `JSON` compatible string serialization for sharing object state in node.js.
 
+[![Build Status](https://secure.travis-ci.org/kanongil/granola.svg)](http://travis-ci.org/kanongil/granola)
+
 Lead Maintainer - [Gil Pedersen](https://github.com/kanongil)
 
 **granola** provides a `JSON` compatible stringifier and parser with support for modern language and object primitives.
