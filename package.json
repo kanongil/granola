@@ -34,6 +34,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kanongil/granola.git"
+    "url": "git+https://github.com/hapijs/granola.git"
   }
 }

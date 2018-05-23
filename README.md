@@ -2,7 +2,7 @@
 
 `JSON` compatible string serialization for sharing object state in node.js.
 
-[![Build Status](https://secure.travis-ci.org/kanongil/granola.svg)](http://travis-ci.org/kanongil/granola)
+[![Build Status](https://secure.travis-ci.org/hapijs/granola.svg)](http://travis-ci.org/hapijs/granola)
 
 Lead Maintainer - [Gil Pedersen](https://github.com/kanongil)
 
